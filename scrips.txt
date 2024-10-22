@@ -7,3 +7,19 @@ cac cau lenh git:
 
 	git add filename -> add tung file.
 	git add . -> add tat ca cac file.
+
+	git commit -m "message". -> commit code, code van duoi o local
+	
+	git branch -> xem cac nhanh 
+	
+	git checkout <ten nhanh> -> chuyen ve nhanh sang <ten nhanh>
+
+	git remote add <ten> https://github.com/Minhtuan1GitHub/LearnCode.git
+
+	git remote -v ->xem danh sach remote
+
+	git push origin <ten nhanh> -> push code, co code tren github. 
+
+	git branch -d <ten nhanh> -> xoa mot nhanh.
+
+	git pull origin <ten nhanh> -> lay code moi nhat cua nhanh do ve local.
