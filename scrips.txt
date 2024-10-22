@@ -1,0 +1,9 @@
+tao file: touch <ten file>.<phan mo rong>
+
+cac cau lenh git: 
+	git init -> khoi tao repo duoi local, repo la noi chua code. 
+	
+	git checkout -b develop ->khoi tao nhanh moi co ten la develop.
+
+	git add filename -> add tung file.
+	git add . -> add tat ca cac file.
